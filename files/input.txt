@@ -1,0 +1,4 @@
+This is key AES256 has length 32
+hello world
+hello python
+this is swap
